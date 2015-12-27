@@ -1,4 +1,4 @@
-## the function makeCacheMatrix peform the following:
+## the function makeCacheMatrix perform the following:
 ## set the value of the matrix
 ## get the value of the matrix
 ## set the value of the iverse of the matrx
@@ -22,7 +22,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## the function cacheSolve peform the following:
+## the function cacheSolve perform the following:
 ## checks to see if the inverse matrix has already been calculated
 ## if so, it gets the inverse matrix from the cache and skips the computation
 ## otherwise, it calculates the inverse matrix of the data and sets the value of the inverse in the cache via the setinverse function
